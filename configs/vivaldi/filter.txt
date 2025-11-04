@@ -7,13 +7,6 @@
 ! REDDIT - ADS & ANNOYANCES
 ! ========================================
 
-*$popup,third-party
-||googlesyndication.com^$popup
-||googleadservices.com^$popup
-||doubleclick.net^$popup
-||s.8jfbt5va3r.com^
-
-
 ! Reddit Complete Block Filter for Vivaldi
 ||reddit.com^
 ||www.reddit.com^
